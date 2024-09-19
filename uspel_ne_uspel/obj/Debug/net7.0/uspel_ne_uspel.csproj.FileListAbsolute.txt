@@ -1,0 +1,14 @@
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\bin\Debug\net7.0\uspel_ne_uspel.exe
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\bin\Debug\net7.0\uspel_ne_uspel.deps.json
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\bin\Debug\net7.0\uspel_ne_uspel.runtimeconfig.json
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\bin\Debug\net7.0\uspel_ne_uspel.dll
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\bin\Debug\net7.0\uspel_ne_uspel.pdb
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\uspel_ne_uspel.GeneratedMSBuildEditorConfig.editorconfig
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\uspel_ne_uspel.AssemblyInfoInputs.cache
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\uspel_ne_uspel.AssemblyInfo.cs
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\uspel_ne_uspel.csproj.CoreCompileInputs.cache
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\uspel_ne_uspel.dll
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\refint\uspel_ne_uspel.dll
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\uspel_ne_uspel.pdb
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\uspel_ne_uspel.genruntimeconfig.cache
+D:\disk_E\programs_on_C\uspel_ne_uspel\uspel_ne_uspel\obj\Debug\net7.0\ref\uspel_ne_uspel.dll
