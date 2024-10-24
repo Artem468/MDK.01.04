@@ -1,0 +1,16 @@
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\bin\Debug\net8.0-windows\SystemLab2.exe
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\bin\Debug\net8.0-windows\SystemLab2.deps.json
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\bin\Debug\net8.0-windows\SystemLab2.runtimeconfig.json
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\bin\Debug\net8.0-windows\SystemLab2.dll
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\bin\Debug\net8.0-windows\SystemLab2.pdb
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.Form1.resources
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.csproj.GenerateResource.cache
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.AssemblyInfoInputs.cache
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.AssemblyInfo.cs
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.csproj.CoreCompileInputs.cache
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.dll
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\refint\SystemLab2.dll
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.pdb
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\SystemLab2.genruntimeconfig.cache
+D:\disk_E\programs_on_C\SystemLab2\SystemLab2\obj\Debug\net8.0-windows\ref\SystemLab2.dll
